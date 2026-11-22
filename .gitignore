@@ -9,5 +9,7 @@ Thumbs.db
 **/.env
 **/__pycache__/
 **/*.py[cod]
+**/venv/
+backend/uploads/
 backend/legacyai.db
 backend/*.sqlite3
